@@ -27,7 +27,7 @@ Since the dataset is too large, you may download the data from [here](https://ww
 
 ---
 
-# Code Navigation
+### Code Navigation
 1. Final Notebook on our model in this jupyter [notebook](https://github.com/CJianYu98/Amazon-Reviews-Analysis/blob/main/final_notebook.ipynb)
 2. clf.py is the script for our emotion data classification model
 3. data_to_csv.py is the script for transforming our raw data into cleaned data and export into csv
