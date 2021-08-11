@@ -20,9 +20,12 @@ E-commerce platforms’ POV: Unable to provide competitive advantage over other 
 
 Our proposed solution aims to fill the gap on the aforementioned issues through sentiment analysis and topic modelling.
 
+---
+
 ### Dataset
 Since the dataset is too large, you may download the data from [here](https://www.kaggle.com/chenjianyu/amazon-reviews)
 
+---
 
 # Code Navigation
 1. Final Notebook on our model in this jupyter [notebook](https://github.com/CJianYu98/Amazon-Reviews-Analysis/blob/main/final_notebook.ipynb)
@@ -30,6 +33,7 @@ Since the dataset is too large, you may download the data from [here](https://ww
 3. data_to_csv.py is the script for transforming our raw data into cleaned data and export into csv
 4. utils.py are some of the functions used in our notebook
 
+---
 
 ### Contributors
 
